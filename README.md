@@ -12,6 +12,10 @@ Extension built to click gate automatically as soon as someone clicks the switch
 9. Check Record furni ID and double click the switch OR click switch and click use then uncheck it!
 10. Click 1 to start it and stop it. Everytime the switch is clicked it will disable by itself!
 
+# Important Note:
+
+If you open the extension in the room for some reason it might just keep closing. The best way is to open the extenion in hotel view and then enter the room where you will want to use this extension in. I don't know why G-Earth sometimes bugs the code but please just open the extension in hotel view and then enter the room.
+
 If you need help using this extension please message me on discord Ahmed#8333
 
 # G-Earth Download:
