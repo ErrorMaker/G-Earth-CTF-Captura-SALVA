@@ -1,5 +1,5 @@
 # G-Earth-CTF-Captura-SALVA
-Extension built to help users pass the icecream to other players. Also has other functions to help in the game.. How to use install it and get it working:
+Extension built to click gate automatically as soon as someone clicks the switch. This is made for CTF save! How to use install it and get it working:
 
 1. Download G-Earth. There is 64Bit and 32Bit, please use the correct one according to your computers operating system
 2. Keep everything in this file (Geode.dll, Geode.Extension.Windows.dll, Recuperarell.dll, and websocket-sharp.dll)
