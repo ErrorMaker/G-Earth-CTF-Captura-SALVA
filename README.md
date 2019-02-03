@@ -18,6 +18,6 @@ If you need help using this extension please message me on discord Ahmed#8333
 
 https://github.com/sirjonasxx/G-Earth
 
-# Extension Download:
+# Extension Download;
 
 Download Link: https://github.com/DevLooney/G-Earth-CTF-Captura-SALVA/releases/download/v1.0/CTF.Save.Salva.-.Release.zip
