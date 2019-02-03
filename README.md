@@ -20,4 +20,4 @@ https://github.com/sirjonasxx/G-Earth
 
 # Extension Download:
 
-Download Link: 
+Download Link: https://github.com/DevLooney/G-Earth-CTF-Captura-SALVA/releases/download/v1.0/CTF.Save.Salva.-.Release.zip
