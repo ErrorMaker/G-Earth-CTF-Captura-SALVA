@@ -4,8 +4,8 @@ Extension built to click gate automatically as soon as someone clicks the switch
 1. Download G-Earth. There is 64Bit and 32Bit, please use the correct one according to your computers operating system
 2. Keep everything in this file (Geode.dll, Geode.Extension.Windows.dll, Recuperarell.dll, and websocket-sharp.dll)
 3. Open the G-Earth folder and double click G-Earth and connect.
-4. Once you have connected please double click the Nondcbotv2 that is in the NonDc Bot - Release folder
-5. G-Earth will say "Extension "Non-DC Bot" tries to connect but isn't known to G-Earth, accept this connection?"
+4. Once you have connected please double click the ToggleFurniClick that is in the NonDc Bot - Release folder
+5. G-Earth will say "Extension "ToggleFurniClick" tries to connect but isn't known to G-Earth, accept this connection?"
 6. Click YES
 7. Once you do that please click Connect OR Activate on the extension
 8. Check Record destiny and click under the gate then uncheck it!
